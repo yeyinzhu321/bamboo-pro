@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/bamboo-pro.iml" filepath="$PROJECT_DIR$/.idea/bamboo-pro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base/base-common/base-common.iml" filepath="$PROJECT_DIR$/base/base-common/base-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base/base-spring/base-spring.iml" filepath="$PROJECT_DIR$/base/base-spring/base-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base/base-springboot/base-springboot.iml" filepath="$PROJECT_DIR$/base/base-springboot/base-springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base/base-springmvc/base-springmvc.iml" filepath="$PROJECT_DIR$/base/base-springmvc/base-springmvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base/base-utils/base-utils.iml" filepath="$PROJECT_DIR$/base/base-utils/base-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/spring-demo/spring-demo.iml" filepath="$PROJECT_DIR$/demo/spring-demo/spring-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/springboot-demo/springboot-demo.iml" filepath="$PROJECT_DIR$/demo/springboot-demo/springboot-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/springcloud/springcloud-demo/springcloud-demo.iml" filepath="$PROJECT_DIR$/demo/springcloud/springcloud-demo/springcloud-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/springcloud/springcloud-order/springcloud-order.iml" filepath="$PROJECT_DIR$/demo/springcloud/springcloud-order/springcloud-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/springcloud/springcloud-user/springcloud-user.iml" filepath="$PROJECT_DIR$/demo/springcloud/springcloud-user/springcloud-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/springcloud/springcloud-zuul/springcloud-zuul.iml" filepath="$PROJECT_DIR$/demo/springcloud/springcloud-zuul/springcloud-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/springmvc-demo/springmvc-demo.iml" filepath="$PROJECT_DIR$/demo/springmvc-demo/springmvc-demo.iml" />
+    </modules>
+  </component>
+</project>
